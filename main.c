@@ -3,5 +3,9 @@ main() {
 
          biggest();
          factorial();
-        reverse();
+         reverse();
+	 big();
+	 sort();
+	 palin();
+	 add();
 }
